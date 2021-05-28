@@ -1,2 +1,6 @@
 # findyourjob
-Учебный проект Gloo Academy
+Учебный проект Glo Academy
+## Используются технологии:
+HTML
+CSS
+Bootstrap v5
